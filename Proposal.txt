@@ -1,0 +1,3 @@
+Proposal:
+
+I will continue to refine my previous capstone project of the casino locator in New York to be more polished and have filters and searches built in to find the specific casino as opposed to finding all casinos within a certain radius.
